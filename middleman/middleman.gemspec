@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.add_dependency("middleman-core", Middleman::VERSION)
   s.add_dependency("middleman-sprockets", ">= 3.1.2")
   s.add_dependency("haml", [">= 4.0.5"])
-  s.add_dependency("sass", [">= 3.2.17", "< 4.0"])
+  s.add_dependency("sass", [">= 3.3.4", "< 4.0"])
   s.add_dependency("compass-import-once", ["~> 1.0.4"])
   s.add_dependency("compass", [">= 0.12.4"])
   s.add_dependency("uglifier", ["~> 2.5"])
